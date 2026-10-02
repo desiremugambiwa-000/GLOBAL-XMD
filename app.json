@@ -1,7 +1,7 @@
 {
   "name": "global",
   "description": "WhatsApp Bot Using Baileys Library",
-  "repository": "https://github.com/GlobalTechInfo/GLOBAL-XMD",
+  "repository": "https://github.com/GlobalTechInfo/DESIRE-XMD",
   "stack": "container",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["whatsapp-bot", "multi-device", "bot", "whatsapp"],
@@ -14,7 +14,7 @@
     "BOT_NAME": {
       "description": "Give your BOT a name",
       "required": false,
-      "value": "GLOBAL-XMD"
+      "value": "DESIRE-XMD"
     },
     "BOT_NUMBER": {
       "description": "WhatsApp phone number for pairing code",
