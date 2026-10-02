@@ -2,7 +2,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By GlobalTechInfo
+	* Create By DesireTechInfo
 	* Follow https://github.com/GlobalTechInfo
 	* Whatsapp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
 */
