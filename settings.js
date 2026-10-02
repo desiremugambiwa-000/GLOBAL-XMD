@@ -10,11 +10,11 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 
-global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(',').map(v => v.trim()) : ['923204566005'];
+global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(',').map(v => v.trim()) : ['263788929657'];
 
 global.packname = process.env.PACKNAME || 'BOT';
-global.author = process.env.AUTHOR || 'GlobalTechInfo';
-global.botname = process.env.BOT_NAME || 'GLOBAL-XMD';
+global.author = process.env.AUTHOR || 'DESIRETechInfo';
+global.botname = process.env.BOT_NAME || 'DESIRE-XMD';
 global.listprefix = process.env.PREFIX ? process.env.PREFIX.split(',') : ['+','!','.'];
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆'];
 
